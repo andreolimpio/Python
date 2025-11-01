@@ -1,4 +1,3 @@
-# Python
 # Códigos em Python - Aulas de Programação
 
 Este repositório reúne uma coleção de códigos-fonte desenvolvidos em linguagem Python, voltados para fins didáticos e práticos nas aulas de Programação e Lógica Computacional. 
